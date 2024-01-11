@@ -3,4 +3,6 @@ def square(x):
 
 print(square(4))
 
+def multi(a,b):
+    return a*b
 
