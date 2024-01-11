@@ -3,8 +3,8 @@ def square(x):
 
 print(square(4))
 
-def multi(a,b,c):
-    return a*b*c
+def multi(a,b,d):
+    return a*b*d
 
-def division(a,b,c):
-    return a/b*c
+def division(a,b,d):
+    return a/b*d
